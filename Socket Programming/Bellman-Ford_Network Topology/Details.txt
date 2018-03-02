@@ -1,0 +1,7 @@
+This project was for the computer networks course at NJIT. The class was tasked with using Socket API and the Bellman-Ford Algorithm to
+create a network topology using four machines. The Message2.java class is a class that was written to wtore the data that was meant to be 
+sent between routers. In this project I maed use of:
+
+Socket API
+Serialization 
+Bellman-Ford Algorithm 
